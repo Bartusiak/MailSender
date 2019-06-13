@@ -1,0 +1,10 @@
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\bin\Debug\Zadanie6.exe.config
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\bin\Debug\Zadanie6.exe
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\bin\Debug\Zadanie6.pdb
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.csprojAssemblyReference.cache
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.Form1.resources
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.Properties.Resources.resources
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.csproj.GenerateResource.cache
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.csproj.CoreCompileInputs.cache
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.exe
+I:\STUDIA\TRZECI_ROK\SEMESTR_2\DOT_NET\Laborka3\Laborka3\Zadanie6\obj\Debug\Zadanie6.pdb
